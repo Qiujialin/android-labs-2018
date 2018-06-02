@@ -28,7 +28,7 @@ $ git push
 
 （4）在自己的GitHub库上创建和发送Pull Request（注意查看Changed files）
 
-（5）在GitHub中使用Markdown文件编写实验报告（report1.md, report2.md）
+（5）在GitHub中使用Markdown文件编写实验报告（report2.md）
 
 ## 3.实验结果
 
